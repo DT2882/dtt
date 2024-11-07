@@ -3,6 +3,41 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
+    - title: Youtube
+      url: https://www.youtube.com/
+      description: 全球最大的学习分享平台
+    - title: Google
+      url: https://www.google.com/
+      description: 全球最大的搜索引擎
+    - title: Oyunfor
+      logo: 
+      url: https://www.oyunfor.com/
+      description: 土耳其Apple礼品卡购买。
+    - title: Apps流动日报
+      url: https://www.newmobilelife.com/
+      description: App store限时免费情报
+    - title: 接码平台
+      logo: 
+      url: https://sms-activate.guru/en
+      description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
+    - title: xxmac
+      logo: 
+      url: https://www.xxmac.com/
+      description: 下载mac软件
+    - title: Cloudflare
+      logo: images/logos/36kr.png
+      url: https://dash.cloudflare.com/login
+      description: Cloudflare 使您连接到互联网的内容安全、私密、快速和可靠
+    - title: UUID生成
+      url: https://1024tools.com/uuid/
+      description: UUID在线生成
+
+- taxonomy: 其他推荐
+  icon: fa-star
+  links: 
+    - title: Medium
+      url: https://medium.com/
+      description: 高质量设计文章
     - title: Dribbble
       logo: 
       url: https://dribbble.com/
@@ -15,38 +50,7 @@
       logo: 
       url: https://cli.im/url
       description: 二维码演示，手机扫一扫，也可以点击
-    - title: UI中国
-      url: https://www.ui.cn/
-      description: 图形交互与界面设计交流、作品展示、学习平台。
-    - title: 站酷
-      url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
-    - title: Pinterest
-      logo:
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣
-      logo: 
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
-    - title: Medium
-      url: https://medium.com/
-      description: 高质量设计文章
-    - title: 优设
-      logo:  
-      url: https://www.uisdc.com/
-      description: 设计师交流学习平台
-    - title: Producthunt
-      url: https://www.producthunt.com/
-      description: 发现新鲜有趣的产品
-    - title: Youtube
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
-    - title: Google
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
-    
-
+  
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
@@ -58,6 +62,10 @@
       logo: images/logos/36kr.png
       url: https://36kr.com/
       description: 创业资讯、科技新闻
+    - title: 优设
+      logo:  
+      url: https://www.uisdc.com/
+      description: 设计师交流学习平台
     - title: 数英网
       logo: images/logos/digitaling.png
       url: https://www.digitaling.com/
@@ -98,6 +106,12 @@
       logo: images/logos/uigreat.png
       url: http://www.uigreat.com/
       description: UI设计师学习交流社区
+    - title: UI中国
+      url: https://www.ui.cn/
+      description: 图形交互与界面设计交流、作品展示、学习平台。
+    - title: 站酷
+      url: https://www.zcool.com.cn/
+      description: 中国人气设计师互动平台
     
 
 - taxonomy: 灵感采集
@@ -288,6 +302,14 @@
 
     - term: 平面素材
       links:
+        - title: Pinterest
+          logo:
+          url: https://www.pinterest.com/
+          description: 全球美图收藏采集站
+        - title: 花瓣
+          logo: 
+          url: https://huaban.com/
+          description: 收集灵感,保存有用的素材
         - title: freepik
           logo: images/logos/freepik.png
           url: https://www.freepik.com/
