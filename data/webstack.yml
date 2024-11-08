@@ -4,9 +4,11 @@
   icon: fa-star
   links: 
     - title: Youtube
+      logo:
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
     - title: Google
+      logo:
       url: https://www.google.com/
       description: 全球最大的搜索引擎
     - title: Oyunfor
@@ -14,6 +16,7 @@
       url: https://www.oyunfor.com/
       description: 土耳其Apple礼品卡购买。
     - title: Apps流动日报
+      logo:
       url: https://www.newmobilelife.com/
       description: App store限时免费情报
     - title: 接码平台
