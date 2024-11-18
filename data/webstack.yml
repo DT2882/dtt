@@ -4,11 +4,11 @@
   icon: fa-star
   links: 
     - title: Youtube
-      logo:
+      logo: images/logos/youtube.png
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
     - title: Google
-      logo:
+      logo: images/logos/GoogleDesign.png
       url: https://www.google.com/
       description: 全球最大的搜索引擎
     - title: Oyunfor
