@@ -28,13 +28,49 @@
       url: https://www.xxmac.com/
       description: 下载mac软件
     - title: Cloudflare
-      logo: images/logos/36kr.png
+      logo: images/logos/cloudflare.png
       url: https://dash.cloudflare.com/login
       description: Cloudflare 使您连接到互联网的内容安全、私密、快速和可靠
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
 
+
+- taxonomy: AI工具
+  icon: fa-star
+  links: 
+    - title: Chatgpt
+      logo: images/logos/chatgpt.png
+      url: https://chatgpt.com/
+      description: OpenAI開發的人工智慧聊天機器人程式
+    - title: perplexity
+      logo: images/logos/perplexity.png
+      url: https://www.perplexity.ai
+      description: 一個由AI 聊天機器人驅動的研究和對話搜尋引擎。
+    - title: Websim
+      logo: images/logos/websim.png
+      url: https://websim.ai/
+      description: 只要一句話即可快速生成應用程式、網頁。
+    - title: Runway
+      logo: images/logos/runway.png
+      url: https://app.runwayml.com/signup?utm_source=search
+      description: Runway提供文本生成視頻、圖像生成視頻和進階視頻編輯工具。
+    - title: Gamma
+      logo: images/logos/Gamma.png
+      url: https://gamma.app/
+      description: Gamma是一款免費AI簡報製作工具。
+    - title: hyperwrite
+      logo: images/logos/hyperwrite.png
+      url: https://www.hyperwriteai.com/
+      description: 与人工智慧個人助理一起寫作、研究和協作。
+     - title: coze
+      logo: images/logos/coze.png
+      url: https://www.coze.com/
+      description: 字节跳动开发的新一代AI 应用开发平台。英文版叫coze，中文版叫扣子。
+    - title: 扣子
+      logo: images/logos/coze.png
+      url: https://www.coze.cn/
+      description: 字节跳动开发的新一代AI 应用开发平台。英文版叫coze，中文版叫扣子。
 
 - taxonomy: 其他推荐
   icon: fa-star
